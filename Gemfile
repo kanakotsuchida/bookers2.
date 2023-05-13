@@ -58,3 +58,5 @@ gem 'devise'
 gem 'net-smtp'
 gem 'refile', require: 'refile/rails', github: 'refile/refile'
 gem 'kaminari','~> 1.2.1'
+
+gem "font-awesome-rails"
